@@ -7,4 +7,4 @@
 - Will setup a github repo with useful NN modules, starting with Transformers for NLP and Vision
 - I’m currently learning VAE's and applications to Topic models and NLP
 
-[diffusion models]: https://github.com/varuntulsian2001/density_estimation_diffusion_models
+[diffusion models]: https://github.com/varun-ml/diffusion-models-tutorial
