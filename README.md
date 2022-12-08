@@ -11,3 +11,4 @@ Currently, I am learning about variational autoencoders and their applications t
 Thank you for your interest in my work. I look forward to sharing more in the future.
 
 [diffusion models]: https://github.com/varun-ml/diffusion-models-tutorial
+![](https://komarev.com/ghpvc/?username=varun-ml&color=green)
