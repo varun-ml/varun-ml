@@ -7,10 +7,10 @@
 
 Currently, I am learning about variational autoencoders and their applications to topic modeling and natural language processing. I have also recently started using JAX, Haiku, and Optax for deep learning.
 
-[Personal Blog]
+[Personal Blog (wity'ai)]
 
 Thank you for your interest in my work. I look forward to sharing more in the future.
 
 [diffusion models]: https://github.com/varun-ml/diffusion-models-tutorial
-[Personal Blog]: https://varun-ml.github.io 
+[Personal Blog (wity'ai)]: https://varun-ml.github.io 
 ![](https://komarev.com/ghpvc/?username=varun-ml&color=green)
