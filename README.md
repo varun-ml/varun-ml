@@ -5,7 +5,7 @@
 - I have built Jupyter and Colab notebooks that demonstrate the use of diffusion models to generate numbers and characters based on the EMNIST dataset -- [Diffusion Models]
 - In the future, I plan to create a GitHub repository with useful neural network modules, starting with transformers for natural language processing and computer vision.
 
-Currently, I am Leading the ML team at ![Needl.ai](www.needl.ai). Building SOTA RAG platform for QA using LLM's, and other information retreival systems. 
+Currently, I am Leading the ML team at [Needl.ai](https://www.needl.ai/). Building SOTA RAG platform for QA using LLM's, and other information retreival systems. 
 
 [Personal Blog (wity'ai)]
 
