@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-#### I am interested in building projects using machine learning, and I have a particular interest in generative AI models, natural language processing, search, and personalization. 
+#### I’m Varun — building AI projects at the intersection of generative models, search, and finance.
 
-- I have built Jupyter and Colab notebooks that demonstrate the use of diffusion models to generate numbers and characters based on the EMNIST dataset -- [Diffusion Models]
+* I’ve built tutorials on diffusion models with Jupyter and Colab, showing how they generate numbers and characters using the EMNIST dataset — [Diffusion Models].
+* Previously, I led the AI team at [Needl.ai](https://www.needl.ai) as VP & Head of AI, where I developed large-scale information retrieval systems and generative AI solutions for finance and banking.
+* Currently, I’m working on my own venture — [StockOMJ.ai](https://stockomj.ai) — where I’m building “WITY,” an AI trading assistant designed to help traders and investors make disciplined, insight-driven decisions.
 
-Currently, I am the Head of AI at [Needl.ai](https://www.needl.ai/). Building SOTA RAG platform for QA using LLM's, and other information retreival systems. 
+I’m also reviving my [personal blog (wity’ai)](https://varun-ml.github.io) to share weekly updates on the journey of building StockOMJ, along with thoughts on AI, search, and personalization in finance.
 
-[Personal Blog (wity'ai)]
+Thank you for stopping by — I look forward to sharing more soon.
 
-Thank you for your interest in my work. I look forward to sharing more in the future.
+[Diffusion Models]: https://github.com/varun-ml/diffusion-models-tutorial
 
-[diffusion models]: https://github.com/varun-ml/diffusion-models-tutorial
-[Personal Blog (wity'ai)]: https://varun-ml.github.io 
-![](https://komarev.com/ghpvc/?username=varun-ml&color=green)
+![](https://komarev.com/ghpvc/?username=varun-ml\&color=green)
